@@ -3,7 +3,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("/imgs/7SBV.gif");
+    background-image: url("imgs/7SBV.gif");
 }
 
 *{
