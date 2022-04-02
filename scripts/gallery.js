@@ -29,6 +29,6 @@ $(function () {
     if (autorotate == true) {
         setInterval(function () {
             rotate($(".stack .imagewrap:last-child"));
-        }, 1500);
+        }, 3500);
     }
 });
